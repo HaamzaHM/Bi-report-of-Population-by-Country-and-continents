@@ -15,3 +15,5 @@ The most populated countries in the world.
 
 Population Density
 Countries with the highest population density. 
+
+<img src="Population by Countries and Continents.PNG" alt="Bi report">
